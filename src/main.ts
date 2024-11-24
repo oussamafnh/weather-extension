@@ -1,20 +1,11 @@
-// import { createApp } from 'vue';
-// import App from './App.vue';
-// import router from "./router.js"
-
-// import './assets/main.css'; // Add your global CSS
-
-// const app = createApp(App);
-
-// app.use(router); // Use the router in the app
-// app.mount('#app');
+import { inject } from "@vercel/analytics"
 import { createApp } from 'vue';
 import App from './App.vue';
-import router from './router'; // Import the router
+import router from './router';
 
-import './assets/main.css'; // Add your global CSS
+import './assets/main.css';
 
 const app = createApp(App);
-
-app.use(router); // Use the router in the app
+inject();
+app.use(router);
 app.mount('#app');
