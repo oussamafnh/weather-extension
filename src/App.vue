@@ -1,4 +1,4 @@
-<!-- <template>
+<!--<template>
   <WeatherComponent />
 </template>
 
@@ -16,21 +16,18 @@ export default {
 @import "./assets/main.css";
 </style> -->
 
-
 <template>
-  <WeatherComponent />
+  <div id="app">
+    <router-view></router-view> <!-- Render the active route here -->
+  </div>
 </template>
 
 <script>
-import WeatherComponent from "./components/weatherEx.vue";
-
 export default {
-  components: {
-    WeatherComponent,
-  },
+  name: 'App',
 };
 </script>
 
 <style>
-@import "./assets/main.css";
+/* Add any global styles if needed */
 </style>

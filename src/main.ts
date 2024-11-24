@@ -8,11 +8,13 @@
 
 // app.use(router); // Use the router in the app
 // app.mount('#app');
-import { createApp } from 'vue'
-import App from './App.vue'
+import { createApp } from 'vue';
+import App from './App.vue';
+import router from './router'; // Import the router
 
-// Create the app instance
-const app = createApp(App)
+import './assets/main.css'; // Add your global CSS
 
-// Mount the app to the #app element
-app.mount('#app')
+const app = createApp(App);
+
+app.use(router); // Use the router in the app
+app.mount('#app');
