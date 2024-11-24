@@ -192,7 +192,7 @@ header {
 }
 
 .download-buttons a .chrome-icon {
-    background: url('https://upload.wikimedia.org/wikipedia/commons/8/87/Google_Chrome_icon_%282022%29.svg') no-repeat center;
+    background: url('https://commons.wikimedia.org/wiki/Google_Chrome#/media/File:Google_Chrome_icon_(September_2014).svg') no-repeat center;
     background-size: contain;
 }
 
@@ -202,7 +202,7 @@ header {
 }
 
 .download-buttons a .safari-icon {
-    background: url('https://upload.wikimedia.org/wikipedia/commons/c/cf/Safari_browser_logo_2014.svg') no-repeat center;
+    background: url('https://en.wikipedia.org/wiki/Safari_(web_browser)#/media/File:Safari_2020_logo.svg') no-repeat center;
     background-size: contain;
 }
 
