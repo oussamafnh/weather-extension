@@ -1,4 +1,4 @@
-# Weather Extension with City Backgrounds 🌦️
+# OFN-Weather-Extension with City Backgrounds 🌦️
 
 A sleek, user-friendly weather extension that provides **real-time weather updates** with stunning city backgrounds. This project includes a landing page for easy downloads and installation instructions for multiple browsers (Chrome, Firefox, and Safari).
 
@@ -28,22 +28,36 @@ A sleek, user-friendly weather extension that provides **real-time weather updat
 - [Node.js](https://nodejs.org/)
 - [Vue.js](https://vuejs.org/)
 
-### Steps
+# Weather Extension
+
+## Description
+The Weather Extension provides real-time weather updates with stunning city backgrounds. It is available for Chrome, Firefox, and Safari. Users can download and install the extension to access weather information directly in their browsers.
+
+## Steps
+
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/weather-extension.git
+   ```
+
 Navigate to the project directory:
    ```bash
-  cd weather-extension
+   cd weather-extension
+   ```
+
 Install dependencies:
    ```bash
-  npm install
+   npm install
+   ```
 
 Run the development server:
    ```bash
-  npm run dev
+   npm run dev
+   ```
+
 
 Open http://localhost:3000 in your browser to view the project.
+
 Deployment
 The landing page is deployed using Vue.js and serves the extension files for download.
 
