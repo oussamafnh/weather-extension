@@ -11,7 +11,7 @@ A sleek, user-friendly weather extension that provides **real-time weather updat
 - 🚀 **Landing Page**: A simple, elegant page for downloading the extension and step-by-step installation guidance.
 
 ---
-
+ 
 ## Installation Instructions
 
 1. Go to the [landing page](#) to download the extension.
