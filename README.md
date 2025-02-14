@@ -22,6 +22,7 @@ A sleek, user-friendly weather extension that provides **real-time weather updat
 
 ---
 
+
 ## Development Setup
 
 ### Prerequisites
