@@ -1,8 +1,10 @@
+
 # OFN-Weather-Extension with City Backgrounds 🌦️
 
 A sleek, user-friendly weather extension that provides **real-time weather updates** with stunning city backgrounds. This project includes a landing page for easy downloads and installation instructions for multiple browsers (Chrome, Firefox, and Safari).
 
 ---
+
 
 ## Features
 - 🌡️ **Real-time Weather**: Stay updated with the latest weather conditions.
